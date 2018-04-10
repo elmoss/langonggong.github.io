@@ -14,29 +14,29 @@ tags:
 ---
 # spring cloud
 # 服务注册与发现
-## Eureka
-## other
+#### Eureka
+#### other
 # 负载均衡
-## Ribbon
-## other
+#### Ribbon
+#### other
 # rest调用
-## Feign
-## other
+#### Feign
+#### other
 # 容错处理
-## Hystrix
-## other
+#### Hystrix
+#### other
 # 微服务网关
-## Zuul
-## other
+#### Zuul
+#### other
 # 微服务配置
-## Spring Cloud Config
-## other
+#### Spring Cloud Config
+#### other
 # 微服务跟踪
-## other
-## other
+#### other
+#### other
 # Spring Cloud Sleuth
-## other
-## other
+#### other
+#### other
 # Docker
-## 入门
-## Docker Compose
+#### 入门
+#### Docker Compose
